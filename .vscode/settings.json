@@ -1,7 +1,0 @@
-    {
-  "python.defaultInterpreterPath": "/opt/homebrew/opt/python@3.12/bin/python3.12",
-  "python.analysis.extraPaths": [
-    "/Users/gabevandevere/Library/Python/3.12/lib/python/site-packages"
-  ],
-  "python.envFile": "${workspaceFolder}/.env"
-}
