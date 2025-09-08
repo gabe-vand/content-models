@@ -1,4 +1,4 @@
 # Ignore VSCode settings
 .vscode/
 # obvious
-./utils/api_keys.csv
+src/utils/api_keys.csv
